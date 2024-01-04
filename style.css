@@ -18,6 +18,7 @@ h1 {
     width: 90%;
     height: 450px;
     padding: 5%;
+    margin-bottom: 100px;
 }
 
 .donate-button {
@@ -26,5 +27,46 @@ h1 {
     font-weight: 700;
     padding: 10px 15px;
     background-color: #FF5959;
+    border-radius: 5px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.gray-col {
+    color: #707070;
+}
+
+.donate-today-part {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 21%;
+}
+
+.amount {
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #707070;
+    margin: 10px;
+    padding: 30px 15px;
+    background-color: #7070701c;
+}
+
+#selected-amount {
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #FF5959;
+    margin: 10px;
+    padding: 30px 15px;
+    background-color: #ff595928;
+    border: 2px solid #FF5959;
     border-radius: 5px;
 }
