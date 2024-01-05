@@ -61,6 +61,14 @@ h2 {
     background-color: #7070701c;
 }
 
+.inputf1 {
+    width: 300px;
+    height: 35px;
+    border-style: none;
+    border-bottom: 1px solid #707070;
+    padding-left: 20px;
+}
+
 .space {
     margin-top: 30px;
 }
